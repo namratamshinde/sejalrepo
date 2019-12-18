@@ -29,3 +29,4 @@ Feature: my validations on mercury application
     Then selects the desired flight
     When user makes the payment
     Then Tickets are generated
+
